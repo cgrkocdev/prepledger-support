@@ -1,2 +1,3 @@
-# prepledger-support
-PrepLedger privacy policy, terms, support and data deletion information.
+# PrepLedger support
+
+Official support, privacy, terms and local data deletion information for PrepLedger. Publisher: Cagri Koc.
